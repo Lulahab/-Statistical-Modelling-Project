@@ -39,7 +39,7 @@ Limited API coverage in less busy areas reduced the richness of POI data for cer
 Inconsistent data formats between Foursquare and Yelp required significant cleaning and standardization.
 Balancing API quotas and ensuring efficient queries was a constraint during data collection.
 ## Future Goals
-(what would you do if you had more time?)
+
 Incorporate real-time data on bike usage patterns to enhance the predictive power of the model.
 Expand the analysis to include additional factors, such as weather conditions or time of day.
 Use clustering techniques to group similar stations based on POI activity and bike availability.s
