@@ -19,6 +19,7 @@ Created an SQLite database to store and validate the datasets.
 
 Compare metrics such as business ratings and distances with station attributes.
 Visualize trends and correlations using plots and charts.
+
 4.Regression Modeling:
 
 Perform regression analysis to model the relationship between independent variables (e.g., empty slots, free bikes, business distance) and the target variable (business rating).
