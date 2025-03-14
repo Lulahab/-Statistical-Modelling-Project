@@ -7,10 +7,14 @@ The goal of this project is to analyze bike-sharing data in Luxembourg by integr
 
 Retrieved bike station data from the CityBikes API for Luxembourg.
 Queried Foursquare and Yelp APIs to gather POI details (e.g., restaurants, bars, ratings, review counts) within 1000m of each station.
+
+
 2.Data Integration:
 
 Merged bike station data with POI data from both APIs.
 Created an SQLite database to store and validate the datasets.
+
+
 3.Exploratory Analysis:
 
 Compare metrics such as business ratings and distances with station attributes.
